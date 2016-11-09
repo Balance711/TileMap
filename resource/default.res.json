@@ -1,0 +1,65 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,Wall_png,Ground_png,gif1_json,gif1_png,gif_json,gif_png,gif2_json,gif2_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/Wall.png",
+			"type": "image",
+			"name": "Wall_png"
+		},
+		{
+			"url": "assets/Ground.png",
+			"type": "image",
+			"name": "Ground_png"
+		},
+		{
+			"name": "gif1_json",
+			"type": "json",
+			"url": "assets/gif1.json"
+		},
+		{
+			"name": "gif1_png",
+			"type": "image",
+			"url": "assets/gif1.png"
+		},
+		{
+			"name": "gif_json",
+			"type": "json",
+			"url": "assets/gif.json"
+		},
+		{
+			"name": "gif_png",
+			"type": "image",
+			"url": "assets/gif.png"
+		},
+		{
+			"name": "gif2_json",
+			"type": "json",
+			"url": "assets/gif2.json"
+		},
+		{
+			"name": "gif2_png",
+			"type": "image",
+			"url": "assets/gif2.png"
+		}
+	]
+}
